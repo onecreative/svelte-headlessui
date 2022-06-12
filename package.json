@@ -14,7 +14,7 @@
     "url": "https://github.com/rgossiaux/svelte-headlessui/issues"
   },
   "license": "MIT",
-  "repository": "github:rgossiaux/svelte-headlessui",
+  "repository": "github:onecreative/svelte-headlessui",
   "version": "1.0.2",
   "scripts": {
     "dev": "svelte-kit dev",
